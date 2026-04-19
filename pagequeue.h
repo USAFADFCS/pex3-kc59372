@@ -1,7 +1,7 @@
 /** pagequeue.h
  * ===========================================================
- * Name: _______________________, __ ___ 2026
- * Section: CS483 / ____
+ * Name: Kaci McBrayer , 23 Apr 2026
+ * Section: CS483 / M3
  * Project: PEX3 - Page Replacement Simulator
  * Purpose: Doubly-linked list page queue ADT for LRU page
  *          replacement. Head = LRU end, Tail = MRU end.
